@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+body{
+	background-color:#FAF0E6;
+	font-family: 'Comfortaa', cursive;
+}
+
+.main-text{
+	background: url(img/main-text.png) no-repeat center center;
+	background-size: cover;
+	padding: 8rem;
+	color: #FFFFFF;
+	font-family:  'Comfortaa', cursive;
+}
+#round-circel{
+	padding: 20% 
+
+}
+.main-info{
+	background-color:#C71585;
+	color:#FFFFFF;
+	font-family: 'Comfortaa', cursive;
+}
+.thematic{
+	padding:6%;
+	list-style: none;
+}
+.find{
+	padding:20%;
+}
+.contact{
+	background: url(img/contact.jpg) no-repeat center center;
+	background-size: cover;
+	padding: 8rem;
+	color: #FFFFFF;
+}
+.knopka{
+	padding:10%;
+}
+.program{
+	background: url(img/program.jpg) no-repeat center center;
+	background-size: cover;
+	padding: 8rem;
+	color: #FFFFFF;
+	font-family:  'Comfortaa', cursive;
+}
+.knopka1{
+	padding:5%;
+}
+.disign{
+	background: url(img/disign.jpg) no-repeat center center;
+	background-size: cover;
+	padding: 8rem;
+	color: #FFFFFF;
+}
+.business{
+    background: url(img/business.jpg) no-repeat center center;
+	background-size: cover;
+	padding: 8rem;
+	color: #FFFFFF;
+}
+.marg{
+	margin-top:1%; 
+	margin-bottom: 1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
